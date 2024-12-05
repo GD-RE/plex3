@@ -31,7 +31,7 @@ see the attached docstrings for more information.
 #  packages.python.org/plex/
 
 __version__ = '2.0.0-fork'
-__author__ = "Calloc"
+__authors__ = ["Calloc", "GD::RE"]
 __former_authors__ = ["Google", "Cython"]
 
 from plex3.actions import TEXT, IGNORE, Begin, Method
